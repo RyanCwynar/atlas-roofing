@@ -22,9 +22,9 @@ export default function Home() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <span className="hero-badge">39+ Years of Excellence</span>
+          <span className="hero-badge">47+ Years of Excellence</span>
           <h1>South Florida&apos;s Trusted Roofing Experts</h1>
-          <p>Family-owned since 1986. Licensed, insured, and dedicated to protecting your home with quality craftsmanship.</p>
+          <p>Established in 1978. Licensed, insured, and dedicated to protecting your property with quality craftsmanship.</p>
           <div className="hero-buttons">
             <a href="tel:9544225544" className="btn-primary">
               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
@@ -36,7 +36,7 @@ export default function Home() {
         <div className="hero-image">
           <div className="hero-image-placeholder">
             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
-            <span>Quality Roofing Since 1986</span>
+            <span>Quality Roofing Since 1978</span>
           </div>
         </div>
       </section>
@@ -44,7 +44,7 @@ export default function Home() {
       {/* Stats Section */}
       <section className="stats">
         <div className="stat">
-          <span className="stat-number">39+</span>
+          <span className="stat-number">47+</span>
           <span className="stat-label">Years Experience</span>
         </div>
         <div className="stat">
@@ -118,8 +118,8 @@ export default function Home() {
       <section id="about" className="about">
         <div className="about-content">
           <span className="section-badge">About Us</span>
-          <h2>Trusted by South Florida Since 1986</h2>
-          <p>Atlas Roofing has been providing top-quality residential and commercial roofing services to Deerfield Beach, Fort Lauderdale, Boca Raton, and all of South Florida for nearly four decades.</p>
+          <h2>Trusted by South Florida Since 1978</h2>
+          <p>Atlas Roofing has been providing top-quality residential and commercial roofing services to Deerfield Beach, Fort Lauderdale, Boca Raton, and all of South Florida for over four decades.</p>
           <p>We stay up to date on all the latest developments regarding existing codes and technologies in the roofing industry. Our comprehensive approach includes roof evaluations, detailed specifications, and on-site project management throughout every phase.</p>
           <div className="about-features">
             <div className="feature">
@@ -143,7 +143,7 @@ export default function Home() {
         <div className="about-image">
           <div className="about-image-placeholder">
             <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
-            <span>39 Years of Trust</span>
+            <span>47 Years of Trust</span>
           </div>
         </div>
       </section>
@@ -221,7 +221,7 @@ export default function Home() {
         <div className="footer-content">
           <div className="footer-brand">
             <span className="logo">Atlas Roofing</span>
-            <p>South Florida&apos;s trusted roofing contractor since 1986.</p>
+            <p>South Florida&apos;s trusted roofing contractor since 1978.</p>
           </div>
           <div className="footer-links">
             <a href="#services">Services</a>
